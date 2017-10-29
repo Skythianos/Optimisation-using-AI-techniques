@@ -1,0 +1,2 @@
+# Optimisation-using-AI-techniques
+This project introduces a few AI based algorithms which were created in the last two decades. These algorithms solve the optimization problem where they maximize or minimize their cost function for global optimum. All methods are looking for the global optimum, thus the function includes valleys then the methods will not return with local optimum. This project shows some swarm intelligence methods. These methods refer to the symptom/creature where their names come from. For example, the Bee algorithm imitates the pathfinding for nectar. 
